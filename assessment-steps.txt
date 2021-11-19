@@ -1,0 +1,11 @@
+Build a Docker Jenkins Pipeline to Implement CI/CD Workflow
+Project-3
+
+Step Documentaions
+
+1. Created a repot on github (pankajverma4u/Assessment-Project-3)
+2. Git clone of this repot to ubantu system 
+3. Created Readme.md file
+4. Created add-two-num.py code file
+5. Created assessment-step.txt for project documentation
+
