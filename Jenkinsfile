@@ -13,5 +13,11 @@ pipeline {
       }
     }
 
+    stage('Run Python') {
+      steps {
+        sh 'python add-two-num.py'
+      }
+    }
+
   }
 }
